@@ -15,7 +15,7 @@
   },
   "angleMotorsKV": 0,
   "encoderPulsePerRotation": {
-    "drive": 1,
-    "angle": 1
+    "drive": 2048,
+    "angle": 360
   }
 }
